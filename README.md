@@ -24,3 +24,6 @@ la página.
   y la probabilidad de ser negro o rojo es del 49% cada uno. 
   - Los jugadores que acierten el color ganador recibirán quince veces lo apostado si el color fue el verde, y recibirán
   el doble de lo apostado si el color fue el rojo o el negro. 
+
+2. En la ruta http://localhost/roulette/players/list_players se podrán gestionar los usuarios mediante un CRUD, que
+permitirá consultar, crear, modificar y eliminar los usuarios del sistema.
